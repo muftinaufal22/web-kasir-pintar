@@ -3,11 +3,6 @@
 
 Sistem Kasir (Point of Sales) berbasis web yang lengkap dan responsif, dibangun menggunakan **Laravel** untuk membantu manajemen operasional retail secara efisien. Proyek ini mencakup manajemen inventaris, sistem transaksi yang kompleks, hingga pelaporan keuangan otomatis.
 
-## Preview
-
-> ![Uploading web kasir.png…]()
-
-
 ## 🚀 Fitur Utama
 
 - **Dashboard Informatif**: Statistik penjualan dan stok barang secara real-time.
