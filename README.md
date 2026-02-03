@@ -90,7 +90,7 @@ php artisan serve
 
 ---
 
-Dibuat dengan  oleh **M Nafis Fakhrudin**
+Dibuat dengan  oleh **Mufti Hashfi Naufal And Tim**
 
 ```
 
